@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KiKinmu</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_started">Get Started</string>
+    <string name="get_your_gr">Get your groceries\nwith nectar</string>
+    <string name="or_connect_">
+Or connect with social media
+</string>
+    <string name="some_id">
++880
+</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="continue_g">
+Continue with Google
+</string>
+    <string name="continue_f">
+Continue with Facebook
+</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922287387034",
+    "project_id": "kikinmu-d2433",
+    "storage_bucket": "kikinmu-d2433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922287387034:android:79d88eee060867fadd8a23",
+        "android_client_info": {
+          "package_name": "com.example.kikinmu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwNd6rfASCbY_HTyw1lPjZy-crpOwiZao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
